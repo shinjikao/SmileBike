@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jackalkao/Downloads/androidSDK/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-c088831b33f19da04dd0299730770bbd9d675c70.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-b11b0dcccd18e3ad057040e9e8ee0e2c7e60c2d8.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9fc5b293a18e8e5bdbdd1b889cf9f9b9ed684216.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-ee4939d8f37c8ecac2e4df9adac6e63c2f9af9fe.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-249980f3a7d5dc9297e9bc6df996c39e065f2598.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-454bf86952df128e45b49eb39cbf7c15823980fd.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-ad0a85d984adfa7a4d866fd1e95cd457150b37a0.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-049e381372bc2225347e640cf7f6c81a17886eaa.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-04093f921fd070efce942efcbb318932b81dd9c1.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-390b392840b764afb5f747d6e3eda7357c1c277c.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-390e7e2faffcfe0480a9b977234d4acd760fd47c.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-1cddcf57a3b085204ccefdbc194d1a946329f7f4.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-45c1004c0d6cc19af437426c354949825a85954c.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-b7653700ba0a72bc743a7ede75bceabeba1b1b32.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-d3a04bc1a0ac21241483ad868d4a3247a70a38a6.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-f35c84e2a0bba0d7d282eec9d8c0381e7af14cbe.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-34caf1fbe649cac54ecfccf26a05e688817c4a56.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-eacb91a68730519c72b5073761023c44e5d769a1.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-fde31e3ba5792a40f90bc9ef3ea32d3c0ec48c71.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-6c299e9c8fba8c13e619ecf80a33de65f1cc490f.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-bc577185bba0d0fd68440c3728770164d2605524.jar" />
+    </item>
+    <item
+        jar="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/jackalkao/AndroidstudioProjects/SmileBike/app/build/intermediates/pre-dexed/debug/classes-845eb9e336b38c04365a8ce70017dd18637b6dd0.jar" />
+    </item>
+
+</items>

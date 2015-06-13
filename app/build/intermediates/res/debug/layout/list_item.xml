@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp" >
+
+  
+    
+    
+    
+   
+    
+    
+    <TextView
+        android:id="@+id/sna"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="SNA:"
+        android:textColor="#acacac" />
+
+    <TextView
+        android:id="@+id/tot"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="TOT:"
+        android:textColor="#acacac" />
+    
+     <TextView
+        android:id="@+id/sbi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="SBI"
+        android:textColor="#acacac" />
+    
+     <TextView
+        android:id="@+id/sarea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="SAREA"
+        android:textColor="#acacac" />
+     
+      <TextView
+        android:id="@+id/lat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="LAT:"
+        android:textColor="#acacac" />
+      
+       <TextView
+        android:id="@+id/lng"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="LNG"
+        android:textColor="#acacac" />
+       
+        <TextView
+        android:id="@+id/ar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:text="AR"
+        android:textColor="#acacac" />
+
+</LinearLayout><!-- From: file:/Users/jackalkao/AndroidstudioProjects/SmileBike/app/src/main/res/layout/list_item.xml -->
